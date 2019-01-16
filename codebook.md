@@ -6,8 +6,9 @@ The experimental set up is described in the "UCI HAR Dataset/README.txt" file. T
 
 ## tidydata.txt
  
-The file (tidydata.txt) is created by running run_analysis.R file. The test and training sets from the original data were merged and only MEAN and STD values of measurements were extracted. The tidydata.txt file contains the mean value for by each subject and activity for each measurement
-
+The file (tidydata.txt) is created by running run_analysis.R file. The test and training sets from the original data were merged and only MEAN and STD values of measurements were extracted. The tidydata.txt file contains the mean value for by each subject and activity for each measurement.
+* Columns: 88
+* Rows: 180
 
 ## Variables
 
@@ -102,8 +103,7 @@ These colums (variables) contains the mean values of each mesurement for subject
 * AngleYgravityMean
 * AngleZgravityMean
 
-## Following activied were measured:
-(List / Map)
+## Following activities were measured:
 
 * WALKING
 * WALKING_UPSTAIRS
