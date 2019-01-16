@@ -4,7 +4,7 @@ The source for the data is "Human Activity Recognition Using Smartphones Dataset
 
 The experimental set up is described in the "UCI HAR Dataset/README.txt" file. The features measured are described in "UCI HAR Dataset/features_info.txt" file
 
-##tidydata.txt
+## tidydata.txt
  
 The file (tidydata.txt) is created by running run_analysis.R file. The test and training sets from the original data were merged and only MEAN and STD values of measurements were extracted. The tidydata.txt file contains the mean value for by each subject and activity for each measurement
 
